@@ -6,7 +6,7 @@ HEAD='''<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name
 <script>if(localStorage.getItem('tata18')!=='ok')location.replace('./');</script></head>
 <body class="legal-page"><header class="legal-top"><div class="topbar__in"><a class="brand" href="./"><span class="brand__logo">Tata<b>.</b></span><span class="brand__sub">Variedades</span></a><a class="legal-back" href="./">&larr; Voltar à loja</a></div></header>
 <main id="conteudo"><section class="legal-hero"><div class="wrap"><p class="eyebrow">{t}</p><h1 class="display">{h}</h1>
-<p>Atualizada em 14 de outubro de 2026 · Tata Variedades · CNPJ 37.789.447/0001-00 · Curitiba – PR</p></div></section>
+<p>Atualizada em 16 de outubro de 2026 · Tata Variedades · CNPJ 37.789.447/0001-00 · Curitiba – PR</p></div></section>
 <section class="legal"><div class="wrap legal__body">'''
 FOOT='''</div></section></main>
 <div class="warn-bar"><b>+18</b> · Venda proibida para menores de 18 anos.</div>
