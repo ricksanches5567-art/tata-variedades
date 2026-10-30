@@ -1,7 +1,7 @@
 /* CONFIGURAÇÕES DA LOJA — Tata Variedades (arquivo PÚBLICO: nunca coloque senha ou token aqui) */
 window.LOJA_CONFIG = {
   nomeLoja: "Tata Variedades",
-  whatsappNumber: "5541991064167",
+  whatsappNumber: "",
   instagram: "",
   // Servidor de pagamento (Cloudflare Worker separado: pedidos não se misturam)
   apiPagamento: "https://tata-variedades-pagamento.cwbmodafitness.workers.dev",
